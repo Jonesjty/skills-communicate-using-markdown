@@ -7,4 +7,5 @@
 
 
 
-I edited this file to have headers and an image
+I edited this file to have headers
+Next, I edited this file to have an image
